@@ -25,7 +25,7 @@ Bus 001 Device 013: ID 045e:02ad Microsoft Corp. Xbox NUI Audio
   * OpenKinect/libfreenect:
     - control Xbox 360 kinect motor, RGB and Depth images, LED, and audio
 
-## install freebect
+## install freenect
 I initially began to read about a manual install but saw that there is official Ubuntu packaes to automate the installation for me!
 `sudo apt-get install freenect`
 
